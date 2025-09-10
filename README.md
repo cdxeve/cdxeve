@@ -18,7 +18,7 @@ I am dedicated to enhancing **Large Language Models (LLMs)** across their entire
 - **Domain Adaptation**: [AdaptLLM](https://arxiv.org/abs/2309.09530), [AdaMLLM](https://arxiv.org/abs/2411.19930), [SODA](https://aclanthology.org/2022.findings-emnlp.163/).  
 - **Reasoning and Reinforcement Learning**: [Reasoning with Exploration](https://arxiv.org/abs/2506.14758), [STILL](https://github.com/RUCAIBox/Slow_Thinking_with_LLMs).  
 - **Synthetic Data**: [Instruction Pre-Training](https://arxiv.org/abs/2406.14491), [AdaptLLM](https://arxiv.org/abs/2309.09530), [ToEdit](https://arxiv.org/abs/2412.14689).
-- **Retrieval Augmented Generation**: [UPRISE](https://arxiv.org/abs/2303.08518)
+- **Retrieval Augmented Generation**: [UPRISE](https://arxiv.org/abs/2303.08518), [MDR](https://aclanthology.org/2024.naacl-long.235/).
 
 ## Selected Publications  
 *(Full list at [Google Scholar](https://scholar.google.com/citations?hl=en&user=flRAZJQAAAAJ&view_op=list_works))*
