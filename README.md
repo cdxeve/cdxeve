@@ -4,12 +4,17 @@
 
 - Ever since 2021, I have been a **research student** fortunately advised by [Shaohan Huang](https://buaahsh.github.io) and [Furu Wei](https://thegenerality.com) from the GenAI Group of Microsoft Research, with whom I have accomplished many of my representative works!!!
 
-- I was previously a **research assistant** in the CoAI Group, Tsinghua University, fortunately advised by [Yuxian Gu](https://t1101675.github.io) and [Minlie Huang](https://scholar.google.com/citations?user=P1jPSzMAAAAJ&hl=zh-CN).  
+- I was previously a **research assistant** in the CoAI Group, Tsinghua University, fortunately advised by [Yuxian Gu](https://t1101675.github.io) and [Minlie Huang](https://scholar.google.com/citations?user=P1jPSzMAAAAJ&hl=zh-CN).  I also worked as a research engineer at BIGAI, fortunately collaborating with [Xuekai Zhu](https://xuekai-zhu.github.io/Xuekai-Zhu/).
 
-- Before that, I received my **Bachelor's degree in Communication Engineering** and **Master's degree in Computer Science** from Beijing University of Posts and Telecommunications, fortunately advised by [Haifeng Sun](https://hfsun.github.io).  
+## Education
 
-- I also worked as a **research engineer** at BIGAI, fortunately collaborating with [Xuekai Zhu](https://xuekai-zhu.github.io/Xuekai-Zhu/).  
+- **Ph.D. Student in Artificial Intelligence**, Gaoling School of AI, Renmin University of China (2025 – 2029)  
+  - Advisor: [Wayne Xin Zhao](https://scholar.google.com/citations?user=JNhNacoAAAAJ&hl=en)
 
+- **M.S. in Computer Science**, School of Computer Science, Beijing University of Posts and Telecommunications (2020 – 2023)  
+  - Advisor: [Haifeng Sun](https://hfsun.github.io)
+
+- **B.S. in Communication Engineering**, School of Information and Communication Engineering, Beijing University of Posts and Telecommunications (2016 – 2020)  
 
 ## Research Interests  
 
