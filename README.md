@@ -8,7 +8,7 @@
 
 ## Education
 
-- **Ph.D. Student in Artificial Intelligence**, Gaoling School of AI, Renmin University of China (2025 – 2029)  
+- **Ph.D. Student in Artificial Intelligence**, Gaoling School of AI, Renmin University of China (2025 – Present)  
   - Advisor: [Wayne Xin Zhao](https://scholar.google.com/citations?user=JNhNacoAAAAJ&hl=en)
 
 - **M.S. in Computer Science**, School of Computer Science, Beijing University of Posts and Telecommunications (2020 – 2023)  
@@ -25,7 +25,7 @@ I am dedicated to enhancing **Large Language Models (LLMs)** across their entire
 - **Synthetic Data**: [Instruction Pre-Training](https://arxiv.org/abs/2406.14491), [AdaptLLM](https://arxiv.org/abs/2309.09530), [ToEdit](https://arxiv.org/abs/2412.14689).
 - **Retrieval Augmented Generation**: [UPRISE](https://arxiv.org/abs/2303.08518), [MDR](https://aclanthology.org/2024.naacl-long.235/).
 
-## Selected Publications  
+## Selected Papers  
 *(Full list at [Google Scholar](https://scholar.google.com/citations?hl=en&user=flRAZJQAAAAJ&view_op=list_works))*
 
 * **Daixuan Cheng**, Shaohan Huang, Xuekai Zhu, Bo Dai, Wayne Xin Zhao, Zhenliang Zhang, Furu Wei. Reasoning with exploration: An entropy perspective. *Arxiv Preprint, 2025*. [pdf](https://arxiv.org/abs/2506.14758) (**Exploration of RLVR, LLM Reasoning**)
