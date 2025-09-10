@@ -41,7 +41,7 @@ I am dedicated to enhancing **Large Language Models (LLMs)** across their entire
 
 * Huazheng Wang, **Daixuan Cheng**, Haifeng Sun, Jingyu Wang, Qi Qi, Jianxin Liao, Jing Wang, Cong Liu. How Does Diffusion Influence Pretrained Language Models on Out-of-Distribution Data? *ECAI 2023*. [pdf](https://arxiv.org/abs/2307.13949) (**Diffusion LM**)
 
-* Haifeng Sun, **Daixuan Cheng**, Jingyu Wang, Qi Qi, Jianxin Liao. Pattern and content controlled response generation. Information Processing & Management 2021 [pdf](https://www.sciencedirect.com/science/article/pii/S0306457321001023) (**Text Generation of LMs**)
+* Haifeng Sun, **Daixuan Cheng**, Jingyu Wang, Qi Qi, Jianxin Liao. Pattern and content controlled response generation. *Information Processing & Management 2021*. [pdf](https://www.sciencedirect.com/science/article/pii/S0306457321001023) (**Text Generation of LMs**)
  
 ## Contact  
 
