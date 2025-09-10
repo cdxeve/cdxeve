@@ -1,10 +1,10 @@
 # Daixuan Cheng
 
-- I am a **Ph.D. student** at the Gaoling School of AI, Renmin University of China, fortunately advised by [Xin Zhao](https://scholar.google.com/citations?user=JNhNacoAAAAJ&hl=en).  
+- I am a Ph.D. student at **Gaoling School of AI, Renmin University of China**, fortunately advised by [Xin Zhao](https://scholar.google.com/citations?user=JNhNacoAAAAJ&hl=en).  
 
-- Ever since 2021, I have been a **research student** fortunately advised by [Shaohan Huang](https://buaahsh.github.io) and [Furu Wei](https://thegenerality.com) from the GenAI Group of Microsoft Research, with whom I have accomplished many of my representative works!!!
+- Ever since 2021, I have been a research student fortunately advised by [Shaohan Huang](https://buaahsh.github.io) and [Furu Wei](https://thegenerality.com) from the **GenAI Group of Microsoft Research**, with whom I have accomplished many of my representative works!!!
 
-- I was previously a **research assistant** in the CoAI Group, Tsinghua University, fortunately advised by [Yuxian Gu](https://t1101675.github.io) and [Minlie Huang](https://scholar.google.com/citations?user=P1jPSzMAAAAJ&hl=zh-CN).  I also worked as a research engineer at BIGAI, fortunately collaborating with [Xuekai Zhu](https://xuekai-zhu.github.io/Xuekai-Zhu/).
+- I was previously a research assistant in the **CoAI Group, Tsinghua University**, fortunately advised by [Yuxian Gu](https://t1101675.github.io) and [Minlie Huang](https://scholar.google.com/citations?user=P1jPSzMAAAAJ&hl=zh-CN).  I also worked as a research engineer at BIGAI, fortunately collaborating with [Xuekai Zhu](https://xuekai-zhu.github.io/Xuekai-Zhu/).
 
 ## Education
 
