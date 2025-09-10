@@ -17,8 +17,8 @@ I am dedicated to enhancing **Large Language Models (LLMs)** across their entire
 - **Pre-training**: [Instruction Pre-Training](https://arxiv.org/abs/2406.14491), [AdaptLLM](https://arxiv.org/abs/2309.09530), [VL-Match](https://openaccess.thecvf.com/content/ICCV2023/papers/Bi_VL-Match_Enhancing_Vision-Language_Pretraining_with_Token-Level_and_Instance-Level_Matching_ICCV_2023_paper.pdf).  
 - **Domain Adaptation**: [AdaptLLM](https://arxiv.org/abs/2309.09530), [AdaMLLM](https://arxiv.org/abs/2411.19930), [SODA](https://aclanthology.org/2022.findings-emnlp.163/).  
 - **Reasoning and Reinforcement Learning**: [Reasoning with Exploration](https://arxiv.org/abs/2506.14758), [STILL](https://github.com/RUCAIBox/Slow_Thinking_with_LLMs).  
-- **Synthetic Data**: [Instruction Pre-Training](https://arxiv.org/abs/2406.14491), [AdaptLLM](https://arxiv.org/abs/2309.09530), [ToEdit](https://arxiv.org/abs/2412.14689).  
-
+- **Synthetic Data**: [Instruction Pre-Training](https://arxiv.org/abs/2406.14491), [AdaptLLM](https://arxiv.org/abs/2309.09530), [ToEdit](https://arxiv.org/abs/2412.14689).
+- **Retrieval Augmented Generation**: [UPRISE](https://arxiv.org/abs/2303.08518)
 
 ## Selected Publications  
 *(Full list at [Google Scholar](https://scholar.google.com/citations?hl=en&user=flRAZJQAAAAJ&view_op=list_works))*
