@@ -1,6 +1,6 @@
 # Daixuan Cheng
 
-- I am a **Ph.D. student** at the Gaoling School of AI, Renmin University of China, fortunately advised by [Wayne Xin Zhao](https://scholar.google.com/citations?user=JNhNacoAAAAJ&hl=en).  
+- I am a **Ph.D. student** at the Gaoling School of AI, Renmin University of China, fortunately advised by [Xin Zhao](https://scholar.google.com/citations?user=JNhNacoAAAAJ&hl=en).  
 
 - Ever since 2021, I have been a **research student** fortunately advised by [Shaohan Huang](https://buaahsh.github.io) and [Furu Wei](https://thegenerality.com) from the GenAI Group of Microsoft Research, with whom I have accomplished many of my representative works!!!
 
@@ -9,7 +9,7 @@
 ## Education
 
 - **Ph.D. Student in Artificial Intelligence**, Gaoling School of AI, Renmin University of China (2025 – Present)  
-  - Advisor: [Wayne Xin Zhao](https://scholar.google.com/citations?user=JNhNacoAAAAJ&hl=en)
+  - Advisor: [Xin Zhao](https://scholar.google.com/citations?user=JNhNacoAAAAJ&hl=en)
 
 - **M.S. in Computer Science**, School of Computer Science, Beijing University of Posts and Telecommunications (2020 – 2023)  
   - Advisor: [Haifeng Sun](https://hfsun.github.io)
