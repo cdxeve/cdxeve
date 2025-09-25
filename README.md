@@ -6,6 +6,13 @@
 
 - I was previously a research assistant in the **CoAI Group, Tsinghua University**, fortunately advised by [Yuxian Gu](https://t1101675.github.io) and [Minlie Huang](https://scholar.google.com/citations?user=P1jPSzMAAAAJ&hl=zh-CN).  I also worked as a research engineer at BIGAI, fortunately collaborating with [Xuekai Zhu](https://xuekai-zhu.github.io/Xuekai-Zhu/).
 
+🌟 **Recent Focus:** My current research emphasizes **Reinforcement Learning for LLM Reasoning**, especially the **Exploration Mechanisms**!  
+🌟 Check out our works: [Reasoning with Exploration](https://arxiv.org/abs/2506.14758), [FlowRL](https://huggingface.co/papers/2509.15207) and [STILL](https://github.com/RUCAIBox/Slow_Thinking_with_LLMs) 🚀.  
+🌟 Feel free to reach out if you are interested in collaboration or discussions!
+
+## Contact  
+- ✉️ Email: [daixuancheng6@gmail.com](mailto:daixuancheng6@gmail.com)  
+
 ## Education
 
 - **Ph.D. Student in Artificial Intelligence**, Gaoling School of AI, Renmin University of China (2025 – Present)  
@@ -19,40 +26,58 @@
 ## Research Interests  
 
 I am dedicated to enhancing **Large Language Models (LLMs)** across their entire lifecycle, including:  
+- **Reasoning and Reinforcement Learning**: [Reasoning with Exploration](https://arxiv.org/abs/2506.14758), [FlowRL](https://huggingface.co/papers/2509.15207), [STILL](https://github.com/RUCAIBox/Slow_Thinking_with_LLMs).  
 - **Pre-training**: [Instruction Pre-Training](https://huggingface.co/papers/2406.14491), [AdaptLLM](https://huggingface.co/papers/2309.09530), [VL-Match](https://openaccess.thecvf.com/content/ICCV2023/papers/Bi_VL-Match_Enhancing_Vision-Language_Pretraining_with_Token-Level_and_Instance-Level_Matching_ICCV_2023_paper.pdf).  
 - **Domain Adaptation**: [AdaptLLM](https://huggingface.co/papers/2309.09530), [AdaMLLM](https://arxiv.org/abs/2411.19930), [SODA](https://aclanthology.org/2022.findings-emnlp.163/).  
-- **Reasoning and Reinforcement Learning**: [Reasoning with Exploration](https://arxiv.org/abs/2506.14758), [FlowRL](https://huggingface.co/papers/2509.15207), [STILL](https://github.com/RUCAIBox/Slow_Thinking_with_LLMs).  
-- **Synthetic Data**: [Instruction Pre-Training](https://huggingface.co/papers/2406.14491), [AdaptLLM](https://huggingface.co/papers/2309.09530), [ToEdit](https://arxiv.org/abs/2412.14689).
+- **Synthetic Data**: [Instruction Pre-Training](https://huggingface.co/papers/2406.14491), [AdaptLLM](https://huggingface.co/papers/2309.09530), [ToEdit](https://arxiv.org/abs/2412.14689).  
 - **Retrieval Augmented Generation**: [UPRISE](https://arxiv.org/abs/2303.08518), [MDR](https://aclanthology.org/2024.naacl-long.235/).
 
 ## Selected Papers  
 *(Full list at [Google Scholar](https://scholar.google.com/citations?hl=en&user=flRAZJQAAAAJ&view_op=list_works))*
 
-* **Daixuan Cheng**, Shaohan Huang, Xuekai Zhu, Bo Dai, Wayne Xin Zhao, Zhenliang Zhang, Furu Wei. Reasoning with exploration: An entropy perspective. *Arxiv Preprint, 2025*. [pdf](https://arxiv.org/abs/2506.14758) (**Exploration of RLVR, LLM Reasoning**)
+- **Reasoning with Exploration: An Entropy Perspective**  
+**Daixuan Cheng**, Shaohan Huang, Xuekai Zhu, Bo Dai, Wayne Xin Zhao, Zhenliang Zhang, Furu Wei  
+(**Arxiv Preprint, 2025 — Exploration of RLVR, LLM Reasoning**) [pdf](https://arxiv.org/abs/2506.14758)
 
-* **Daixuan Cheng**, Shaohan Huang, Furu Wei. Adapting Large Language Models via Reading Comprehension. *ICLR 2024*. [pdf](https://huggingface.co/papers/2309.09530) [code](https://github.com/microsoft/LMOps/tree/main/adaptllm) [huggingface](https://huggingface.co/AdaptLLM) (**Domain Adaptation of LLM, 500K+ downloads at Huggingface**)
+- **FlowRL: Matching Reward Distributions for LLM Reasoning**  
+Xuekai Zhu, **Daixuan Cheng**, Dinghuai Zhang, Hengli Li, Kaiyan Zhang, Che Jiang, Youbang Sun, Ermo Hua, Yuxin Zuo, Xingtai Lv, Qizheng Zhang, Lin Chen, Fanghao Shao, Bo Xue, Yunchong Song, Zhenjie Yang, Ganqu Cui, Ning Ding, Jianfeng Gao, Xiaodong Liu, Bowen Zhou, Hongyuan Mei, Zhouhan Lin  
+(**Arxiv Preprint, 2025 — Exploration of RLVR, LLM Reasoning**) [pdf](https://huggingface.co/papers/2509.15207) [code](https://github.com/Xuekai-Zhu/FlowRL)
 
-* **Daixuan Cheng**, Yuxian Gu, Shaohan Huang, Junyu Bi, Minlie Huang, Furu Wei. Instruction Pre-Training: Language Models are Supervised Multitask Learners. *EMNLP 2024 (Main, Long Paper)*. [pdf](https://huggingface.co/papers/2406.14491) [code](https://github.com/microsoft/LMOps/tree/main/instruction_pretrain) [huggingface](https://huggingface.co/instruction-pretrain) (**LLM Pre-Training, 500K+ downloads at Huggingface**)
+- **Adapting Large Language Models via Reading Comprehension**  
+**Daixuan Cheng**, Shaohan Huang, Furu Wei  
+(**ICLR 2024 — Domain Adaptation of LLM, 500K+ downloads at Huggingface**) [pdf](https://huggingface.co/papers/2309.09530) [code](https://github.com/microsoft/LMOps/tree/main/adaptllm) [huggingface](https://huggingface.co/AdaptLLM)
 
-* **Daixuan Cheng**, Shaohan Huang, Junyu Bi, Yuefeng Zhan, Jianfeng Liu, Yujing Wang, Hao Sun, Furu Wei, Denvy Deng, Qi Zhang. Uprise: Universal prompt retrieval for improving zero-shot evaluation. *EMNLP 2023 (Main, Long Paper)*. [pdf](https://arxiv.org/abs/2303.08518) [code](https://github.com/microsoft/LMOps/tree/main/uprise) (**RAG of LLM**)
+- **Instruction Pre-Training: Language Models are Supervised Multitask Learners**  
+**Daixuan Cheng**, Yuxian Gu, Shaohan Huang, Junyu Bi, Minlie Huang, Furu Wei  
+(**EMNLP 2024 (Main, Long Paper) — LLM Pre-Training, 500K+ downloads at Huggingface**) [pdf](https://huggingface.co/papers/2406.14491) [code](https://github.com/microsoft/LMOps/tree/main/instruction_pretrain) [huggingface](https://huggingface.co/instruction-pretrain)
 
-* **Daixuan Cheng**, Shaohan Huang, Ziyu Zhu, Xintong Zhang, Wayne Xin Zhao, Zhongzhi Luan, Bo Dai, Zhenliang Zhang. On Domain-Adaptive Post-Training for Multimodal Large Language Models. *EMNLP 2025 (Findings, Long Paper)*. [pdf](https://arxiv.org/abs/2411.19930) [code](https://github.com/bigai-ai/QA-Synthesizer) [huggingface](https://huggingface.co/AdaptLLM/Adapt-MLLM-to-Domains) (**Domain Adaptation of Multimodal LLM**)
+- **Uprise: Universal prompt retrieval for improving zero-shot evaluation**  
+**Daixuan Cheng**, Shaohan Huang, Junyu Bi, Yuefeng Zhan, Jianfeng Liu, Yujing Wang, Hao Sun, Furu Wei, Denvy Deng, Qi Zhang  
+(**EMNLP 2023 (Main, Long Paper) — RAG of LLM**) [pdf](https://arxiv.org/abs/2303.08518) [code](https://github.com/microsoft/LMOps/tree/main/uprise)
 
-* **Daixuan Cheng**, Shaohan Huang, Jianfeng Liu, Yuefeng Zhan, Hao Sun, Furu Wei, Denvy Deng, Qi Zhang. Snapshot-guided domain adaptation for ELECTRA. *EMNLP 2022 (Findings, Short Paper)*. [pdf](https://aclanthology.org/2022.findings-emnlp.163/) (**Domain Adaptation of LM**)
+- **How to Synthesize Text Data without Model Collapse?**  
+Xuekai Zhu, **Daixuan Cheng**, Hengli Li, Kaiyan Zhang, Ermo Hua, Xingtai Lv, Ning Ding, Zhouhan Lin, Zilong Zheng, Bowen Zhou  
+(**ICML 2025 — Synthetic Data for LLM**) [pdf](https://arxiv.org/abs/2412.14689) [code](https://github.com/Xuekai-Zhu/toedit)
 
-* Xuekai Zhu, **Daixuan Cheng**, Dinghuai Zhang, Hengli Li, Kaiyan Zhang, Che Jiang, Youbang Sun, Ermo Hua, Yuxin Zuo, Xingtai Lv, Qizheng Zhang, Lin Chen, Fanghao Shao, Bo Xue, Yunchong Song, Zhenjie Yang, Ganqu Cui, Ning Ding, Jianfeng Gao, Xiaodong Liu, Bowen Zhou, Hongyuan Mei, Zhouhan Lin. [pdf](https://huggingface.co/papers/2509.15207) [code](https://github.com/Xuekai-Zhu/FlowRL) *Arxiv Preprint, 2025* (**Exploration of RLVR, LLM Reasoning**)
+- **VL-Match: Enhancing Vision-Language Pretraining with Token-Level and Instance-Level Matching**  
+Junyu Bi, **Daixuan Cheng**, Ping Yao, Bochen Pang, Yuefeng Zhan, Chuanguang Yang, Yujing Wang, Hao Sun, Weiwei Deng, Qi Zhang  
+(**ICCV 2023 — Pre-Training of Vision-Language Models**) [pdf](https://openaccess.thecvf.com/content/ICCV2023/papers/Bi_VL-Match_Enhancing_Vision-Language_Pretraining_with_Token-Level_and_Instance-Level_Matching_ICCV_2023_paper.pdf)
 
-* Xuekai Zhu, **Daixuan Cheng**, Hengli Li, Kaiyan Zhang, Ermo Hua, Xingtai Lv, Ning Ding, Zhouhan Lin, Zilong Zheng, Bowen Zhou. How to Synthesize Text Data without Model Collapse? *ICML 2025*. [pdf](https://arxiv.org/abs/2412.14689) [code](https://github.com/Xuekai-Zhu/toedit) (**Synthetic Data for LLM**)
+- **On Domain-Adaptive Post-Training for Multimodal Large Language Models**  
+**Daixuan Cheng**, Shaohan Huang, Ziyu Zhu, Xintong Zhang, Wayne Xin Zhao, Zhongzhi Luan, Bo Dai, Zhenliang Zhang  
+(**EMNLP 2025 (Findings, Long Paper) — Domain Adaptation of Multimodal LLM**) [pdf](https://arxiv.org/abs/2411.19930) [code](https://github.com/bigai-ai/QA-Synthesizer) [huggingface](https://huggingface.co/AdaptLLM/Adapt-MLLM-to-Domains)
 
-* Junyu Bi, **Daixuan Cheng**, Ping Yao, Bochen Pang, Yuefeng Zhan, Chuanguang Yang, Yujing Wang, Hao Sun, Weiwei Deng, Qi Zhang. VL-Match: Enhancing Vision-Language Pretraining with Token-Level and Instance-Level Matching. *ICCV 2023*. [pdf](https://openaccess.thecvf.com/content/ICCV2023/papers/Bi_VL-Match_Enhancing_Vision-Language_Pretraining_with_Token-Level_and_Instance-Level_Matching_ICCV_2023_paper.pdf) (**Pre-Training of Vision-Language Models**)
-  
-* Huazheng Wang, **Daixuan Cheng**, Haifeng Sun, Jingyu Wang, Qi Qi, Jianxin Liao, Jing Wang, Cong Liu. How Does Diffusion Influence Pretrained Language Models on Out-of-Distribution Data? *ECAI 2023*. [pdf](https://arxiv.org/abs/2307.13949) (**Diffusion LM**)
+- **Snapshot-guided domain adaptation for ELECTRA**  
+**Daixuan Cheng**, Shaohan Huang, Jianfeng Liu, Yuefeng Zhan, Hao Sun, Furu Wei, Denvy Deng, Qi Zhang  
+(**EMNLP 2022 (Findings, Short Paper) — Domain Adaptation of LM**) [pdf](https://aclanthology.org/2022.findings-emnlp.163/)
 
-* Haifeng Sun, **Daixuan Cheng**, Jingyu Wang, Qi Qi, Jianxin Liao. Pattern and content controlled response generation. *Information Processing & Management 2021*. [pdf](https://www.sciencedirect.com/science/article/pii/S0306457321001023) (**Text Generation of LMs**)
- 
-## Contact  
+- **How Does Diffusion Influence Pretrained Language Models on Out-of-Distribution Data?**  
+Huazheng Wang, **Daixuan Cheng**, Haifeng Sun, Jingyu Wang, Qi Qi, Jianxin Liao, Jing Wang, Cong Liu  
+(**ECAI 2023 — Diffusion LM**) [pdf](https://arxiv.org/abs/2307.13949)
 
-- ✉️ Email: [daixuancheng6@gmail.com](mailto:daixuancheng6@gmail.com)  
+- **Pattern and content controlled response generation**  
+Haifeng Sun, **Daixuan Cheng**, Jingyu Wang, Qi Qi, Jianxin Liao  
+(**Information Processing & Management 2021 — Text Generation of LMs**) [pdf](https://www.sciencedirect.com/science/article/pii/S0306457321001023)
 
 
 
