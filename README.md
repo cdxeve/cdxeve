@@ -8,7 +8,7 @@
 
 🌟 **Recent Focus:**  
 🌟 My current research emphasizes **Reinforcement Learning for LLM Reasoning**, especially the **Exploration Mechanisms**!  
-🌟 Check out our works: [Reasoning with Exploration: An Entropy Perspective](https://arxiv.org/abs/2506.14758), [FlowRL](https://huggingface.co/papers/2509.15207) and [STILL](https://github.com/RUCAIBox/Slow_Thinking_with_LLMs) 🚀.  
+🌟 Check out our works: 🚀 [Reasoning with Exploration: An Entropy Perspective](https://arxiv.org/abs/2506.14758), [FlowRL](https://huggingface.co/papers/2509.15207) and [STILL](https://github.com/RUCAIBox/Slow_Thinking_with_LLMs).  
 🌟 Feel free to reach out if you are interested in collaboration or discussions!
 
 ## Contact  
