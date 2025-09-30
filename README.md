@@ -71,16 +71,3 @@ Junyu Bi, **Daixuan Cheng**, Ping Yao, Bochen Pang, Yuefeng Zhan, Chuanguang Yan
 - **Snapshot-guided domain adaptation for ELECTRA**  
 **Daixuan Cheng**, Shaohan Huang, Jianfeng Liu, Yuefeng Zhan, Hao Sun, Furu Wei, Denvy Deng, Qi Zhang  
 (**EMNLP 2022 (Findings, Short Paper) — Domain Adaptation of LM**) [pdf](https://aclanthology.org/2022.findings-emnlp.163/)
-
-- **How Does Diffusion Influence Pretrained Language Models on Out-of-Distribution Data?**  
-Huazheng Wang, **Daixuan Cheng**, Haifeng Sun, Jingyu Wang, Qi Qi, Jianxin Liao, Jing Wang, Cong Liu  
-(**ECAI 2023 — Diffusion LM**) [pdf](https://arxiv.org/abs/2307.13949)
-
-- **Pattern and content controlled response generation**  
-Haifeng Sun, **Daixuan Cheng**, Jingyu Wang, Qi Qi, Jianxin Liao  
-(**Information Processing & Management 2021 — Text Generation of LMs**) [pdf](https://www.sciencedirect.com/science/article/pii/S0306457321001023)
-
-
-
-
-
