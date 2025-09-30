@@ -50,7 +50,7 @@ Xuekai Zhu, **Daixuan Cheng**, Dinghuai Zhang, Hengli Li, Kaiyan Zhang, Che Jian
 
 - **Instruction Pre-Training: Language Models are Supervised Multitask Learners**  
 **Daixuan Cheng**, Yuxian Gu, Shaohan Huang, Junyu Bi, Minlie Huang, Furu Wei  
-(**EMNLP 2024 (Main, Long Paper) — LLM Pre-Training, 200K+ downloads at Huggingface 🔥**) [pdf](https://huggingface.co/papers/2406.14491) [code](https://github.com/microsoft/LMOps/tree/main/instruction_pretrain) [huggingface](https://huggingface.co/instruction-pretrain)
+(**EMNLP 2024 (Main, Long Paper) — LLM Pre-Training, 200K+ downloads at Huggingface 🔥**) [pdf](https://huggingface.co/papers/2406.14491) [code](https://github.com/microsoft/LMOps/tree/main/instruction_pretrain) [huggingface](https://huggingface.co/instruction-pretrain) [blog by Sebastian Raschka](https://magazine.sebastianraschka.com/p/instruction-pretraining-llms)
 
 - **Uprise: Universal prompt retrieval for improving zero-shot evaluation**  
 **Daixuan Cheng**, Shaohan Huang, Junyu Bi, Yuefeng Zhan, Jianfeng Liu, Yujing Wang, Hao Sun, Furu Wei, Denvy Deng, Qi Zhang  
