@@ -51,7 +51,7 @@ I am dedicated to enhancing **Large Language Models (LLMs)** across their entire
 
 * **Instruction Pre-Training: Language Models are Supervised Multitask Learners**  
   **Daixuan Cheng**, Yuxian Gu, Shaohan Huang, Junyu Bi, Minlie Huang, Furu Wei  
-  (**EMNLP 2024 (Main, Long Paper) — LLM pre-training, [🌟 Recommended by Sebastian Raschka](https://magazine.sebastianraschka.com/p/instruction-pretraining-llms), 🔥 200K+ Downloads on Hugging Face, 🏆 #2 trending dataset, [🤗 #2 Paper of the Day](https://huggingface.co/papers/2406.14491)**) [pdf](https://huggingface.co/papers/2406.14491) [code](https://github.com/microsoft/LMOps/tree/main/instruction_pretrain)
+  (**EMNLP 2024 (Main, Long Paper) — LLM pre-training, [🌟 Recommended by Sebastian Raschka](https://magazine.sebastianraschka.com/p/instruction-pretraining-llms), 🔥 200K+ Downloads on Hugging Face, 🏆 #2 Trending Dataset, [🤗 #2 Paper of the Day](https://huggingface.co/papers/2406.14491)**) [pdf](https://huggingface.co/papers/2406.14491) [code](https://github.com/microsoft/LMOps/tree/main/instruction_pretrain)
 
 * **Uprise: Universal Prompt Retrieval for Improving Zero-Shot Evaluation**  
   **Daixuan Cheng**, Shaohan Huang, Junyu Bi, Yuefeng Zhan, Jianfeng Liu, Yujing Wang, Hao Sun, Furu Wei, Denvy Deng, Qi Zhang  
