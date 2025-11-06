@@ -39,7 +39,7 @@ I am dedicated to enhancing **Large Language Models (LLMs)** across their entire
 
 * **Reasoning with Exploration: An Entropy Perspective**  
   **Daixuan Cheng**, Shaohan Huang, Xuekai Zhu, Bo Dai, Wayne Xin Zhao, Zhenliang Zhang, Furu Wei  
-  (**arXiv Preprint, 2025 — 🌟 Earliest Research on Exploration of RL in LLM reasoning, 🔥 Relation between Entropy and Exploration, 🔝 proposed Entropy Advatage, 🚀 Siginifcant Pass@K Gain**) [pdf](https://arxiv.org/abs/2506.14758)
+  (**arXiv Preprint, 2025 — 🌟 Earliest Research on Exploration of RL in LLM reasoning, 🔥 Relation between Entropy and Exploration, 🔝 proposed Entropy Advantage, 🚀 Significant Pass@K Gain**) [pdf](https://arxiv.org/abs/2506.14758)
 
 * **FlowRL: Matching Reward Distributions for LLM Reasoning**  
   Xuekai Zhu, **Daixuan Cheng**, Dinghuai Zhang, Hengli Li, Kaiyan Zhang, Che Jiang, Youbang Sun, Ermo Hua, Yuxin Zuo, Xingtai Lv, Qizheng Zhang, Lin Chen, Fanghao Shao, Bo Xue, Yunchong Song, Zhenjie Yang, Ganqu Cui, Ning Ding, Jianfeng Gao, Xiaodong Liu, Bowen Zhou, Hongyuan Mei, Zhouhan Lin  
