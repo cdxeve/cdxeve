@@ -7,9 +7,9 @@
 - I was previously a research assistant in the **CoAI Group, Tsinghua University**, fortunately advised by [Yuxian Gu](https://t1101675.github.io) and [Minlie Huang](https://scholar.google.com/citations?user=P1jPSzMAAAAJ&hl=zh-CN).  I also worked as a research engineer at BIGAI, fortunately collaborating with [Xuekai Zhu](https://xuekai-zhu.github.io/Xuekai-Zhu/).
 
 🌟 **Recent Focus:**  
-🌟 My current research emphasizes **Reinforcement Learning for LLM Reasoning**, especially the **Exploration Mechanisms**!  
-🌟 Check out our works: 🚀 [Reasoning with Exploration: An Entropy Perspective](https://arxiv.org/abs/2506.14758), [FlowRL](https://huggingface.co/papers/2509.15207) and [STILL](https://github.com/RUCAIBox/Slow_Thinking_with_LLMs).  
-🌟 Feel free to reach out if you are interested in collaboration or discussions!
+My current research emphasizes **Reinforcement Learning for LLM Reasoning**, especially the **Exploration Mechanisms**!  
+Check out our works: 🚀 [Reasoning with Exploration: An Entropy Perspective](https://arxiv.org/abs/2506.14758), [FlowRL](https://huggingface.co/papers/2509.15207) and [STILL](https://github.com/RUCAIBox/Slow_Thinking_with_LLMs).  
+Feel free to reach out if you are interested in collaboration or discussions!
 
 ## Contact  
 - ✉️ Email: [daixuancheng6@gmail.com](mailto:daixuancheng6@gmail.com)  
@@ -39,19 +39,19 @@ I am dedicated to enhancing **Large Language Models (LLMs)** across their entire
 
 * **Reasoning with Exploration: An Entropy Perspective**  
   **Daixuan Cheng**, Shaohan Huang, Xuekai Zhu, Bo Dai, Wayne Xin Zhao, Zhenliang Zhang, Furu Wei  
-  (**arXiv Preprint, 2025 — 🌟 Earliest Research on Exploration of RL in LLM reasoning**) [pdf](https://arxiv.org/abs/2506.14758)
+  (**arXiv Preprint, 2025 — 🌟 Earliest Research on Exploration of RL in LLM reasoning, 🔥 Relation between Entropy and Exploration, 🔝 proposed Entropy Advatage, 🚀 Siginifcant Pass@K Gain**) [pdf](https://arxiv.org/abs/2506.14758)
 
 * **FlowRL: Matching Reward Distributions for LLM Reasoning**  
   Xuekai Zhu, **Daixuan Cheng**, Dinghuai Zhang, Hengli Li, Kaiyan Zhang, Che Jiang, Youbang Sun, Ermo Hua, Yuxin Zuo, Xingtai Lv, Qizheng Zhang, Lin Chen, Fanghao Shao, Bo Xue, Yunchong Song, Zhenjie Yang, Ganqu Cui, Ning Ding, Jianfeng Gao, Xiaodong Liu, Bowen Zhou, Hongyuan Mei, Zhouhan Lin  
-  (**arXiv Preprint, 2025 — Exploration of RL in LLM reasoning, [🤗 #1 Paper of the Day](https://huggingface.co/papers/2509.15207)**) [pdf](https://huggingface.co/papers/2509.15207) [code](https://github.com/Xuekai-Zhu/FlowRL)
+  (**arXiv Preprint, 2025 — Exploration of RL in LLM reasoning, [🤗 #1 Paper of the Day](https://huggingface.co/papers/2509.15207), [🥗 Recipe at VERL](https://github.com/volcengine/verl/tree/main/recipe/flowrl)**) [pdf](https://huggingface.co/papers/2509.15207) [code](https://github.com/Xuekai-Zhu/FlowRL)
 
 * **Adapting Large Language Models via Reading Comprehension**  
   **Daixuan Cheng**, Shaohan Huang, Furu Wei  
-  (**ICLR 2024 — 🌟 Earliest Research on Domain LLMs, 🔥 500K+ Downloads on Hugging Face, 🏆 #1 Trending in Domain LLMs, [🤗 #2 Paper of the Day](https://huggingface.co/papers/2309.09530)**) [pdf](https://huggingface.co/papers/2309.09530) [code](https://github.com/microsoft/LMOps/tree/main/adaptllm) [huggingface](https://huggingface.co/AdaptLLM)
+  (**ICLR 2024 — 🌟 Earliest Research on Domain LLMs, 🔥 500K+ Downloads on Hugging Face, 🏆 #1 Trending of ALL Domain LLMs on Huggingface, [🤗 #2 Paper of the Day](https://huggingface.co/papers/2309.09530)**) [pdf](https://huggingface.co/papers/2309.09530) [code](https://github.com/microsoft/LMOps/tree/main/adaptllm) [huggingface](https://huggingface.co/AdaptLLM)
 
 * **Instruction Pre-Training: Language Models are Supervised Multitask Learners**  
   **Daixuan Cheng**, Yuxian Gu, Shaohan Huang, Junyu Bi, Minlie Huang, Furu Wei  
-  (**EMNLP 2024 (Main, Long Paper) — LLM pre-training, [🌟 Recommended by Sebastian Raschka](https://magazine.sebastianraschka.com/p/instruction-pretraining-llms), 🔥 200K+ Downloads on Hugging Face, 🏆 #2 Trending Dataset, [🤗 #2 Paper of the Day](https://huggingface.co/papers/2406.14491)**) [pdf](https://huggingface.co/papers/2406.14491) [code](https://github.com/microsoft/LMOps/tree/main/instruction_pretrain)
+  (**EMNLP 2024 (Main, Long Paper) — LLM pre-training, [🌟 Recommended by Sebastian Raschka](https://magazine.sebastianraschka.com/p/instruction-pretraining-llms), 🔥 200K+ Downloads on Hugging Face, 🏆 #2 Trending of ALL Huggingface Dataset, [🤗 #2 Paper of the Day](https://huggingface.co/papers/2406.14491)**) [pdf](https://huggingface.co/papers/2406.14491) [code](https://github.com/microsoft/LMOps/tree/main/instruction_pretrain)
 
 * **Uprise: Universal Prompt Retrieval for Improving Zero-Shot Evaluation**  
   **Daixuan Cheng**, Shaohan Huang, Junyu Bi, Yuefeng Zhan, Jianfeng Liu, Yujing Wang, Hao Sun, Furu Wei, Denvy Deng, Qi Zhang  
