@@ -34,9 +34,9 @@ I am dedicated to enhancing **Large Language Models (LLMs)** across their entire
 - **Retrieval Augmented Generation**: [UPRISE](https://arxiv.org/abs/2303.08518), [MDR](https://aclanthology.org/2024.naacl-long.235/).
 
 ## Honors & Awards 
-* **Outstanding Reviewer of EMNLP, 2026**
-* **1st Place in the PhD Entrance Exam (Preliminary) at the GSAI, Renmin University of China, 2025**
-* **National Scholarship for Master Students (Top 1%), 2021**
+* **Outstanding Reviewer of EMNLP**
+* **1st Place in the PhD Entrance Exam (Preliminary) at the GSAI, Renmin University of China**
+* **National Scholarship for Master Students (Top 1%)**
 
 ## Selected Papers
 
@@ -44,7 +44,7 @@ I am dedicated to enhancing **Large Language Models (LLMs)** across their entire
 
 * **Reasoning with Exploration: An Entropy Perspective**  
   **Daixuan Cheng**, Shaohan Huang, Xuekai Zhu, Bo Dai, Wayne Xin Zhao, Zhenliang Zhang, Furu Wei  
-  (**AAAI 2026 — 🌟 Earliest Research on Exploration of RL in LLM reasoning, 🔥 Relation between Entropy and Exploration, 🔝 proposed Entropy Advantage, 🚀 Significant Pass@K Gain**) [pdf](https://arxiv.org/abs/2506.14758)
+  (**AAAI 2026 — 🌟 Earliest Research on Exploration of RL in LLM reasoning, 🔥 Relation between Entropy and Exploration, 🔝 Proposed Entropy Advantage, 🚀 Significant Pass@K Gain**) [pdf](https://arxiv.org/abs/2506.14758)
 
 * **FlowRL: Matching Reward Distributions for LLM Reasoning**  
   Xuekai Zhu, **Daixuan Cheng**, Dinghuai Zhang, Hengli Li, Kaiyan Zhang, Che Jiang, Youbang Sun, Ermo Hua, Yuxin Zuo, Xingtai Lv, Qizheng Zhang, Lin Chen, Fanghao Shao, Bo Xue, Yunchong Song, Zhenjie Yang, Ganqu Cui, Ning Ding, Jianfeng Gao, Xiaodong Liu, Bowen Zhou, Hongyuan Mei, Zhouhan Lin  
