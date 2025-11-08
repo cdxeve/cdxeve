@@ -34,7 +34,7 @@ I am dedicated to enhancing **Large Language Models (LLMs)** across their entire
 - **Retrieval Augmented Generation**: [UPRISE](https://arxiv.org/abs/2303.08518), [MDR](https://aclanthology.org/2024.naacl-long.235/).
 
 ## Honors & Awards 
-* **[Outstanding Reviewer of EMNLP](https://aclanthology.org/2025.emnlp-main.0.pdf)**
+* **[Outstanding Reviewer of EMNLP (Top 0.5%)](https://aclanthology.org/2025.emnlp-main.0.pdf)**
 * **1st Place in the PhD Entrance Exam (Preliminary) at the GSAI, Renmin University of China**
 * **National Scholarship for Master Students (Top 1%)**
 * **1st Prize in the National English Competition (Top 0.5%)**
