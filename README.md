@@ -37,6 +37,7 @@ I am dedicated to enhancing **Large Language Models (LLMs)** across their entire
 * **Outstanding Reviewer of EMNLP**
 * **1st Place in the PhD Entrance Exam (Preliminary) at the GSAI, Renmin University of China**
 * **National Scholarship for Master Students (Top 1%)**
+* **1st Prize in the National English Competition (Top 0.5%)**
 
 ## Selected Papers
 
