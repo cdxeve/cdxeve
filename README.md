@@ -6,9 +6,9 @@
 
 - I was previously a research assistant in the **CoAI Group, Tsinghua University**, fortunately advised by [Yuxian Gu](https://t1101675.github.io) and [Minlie Huang](https://scholar.google.com/citations?user=P1jPSzMAAAAJ&hl=zh-CN).  I also worked as a research engineer at BIGAI, fortunately collaborating with [Xuekai Zhu](https://xuekai-zhu.github.io/Xuekai-Zhu/).
 
-**Recent Focus:**  
+**🌟 Recent Focus:**  
 My current research emphasizes **Reinforcement Learning for LLM Reasoning**, especially the **Exploration Mechanisms**!  
-Check out our works: [Reasoning with Exploration: An Entropy Perspective](https://arxiv.org/abs/2506.14758), [FlowRL](https://huggingface.co/papers/2509.15207) and [STILL](https://github.com/RUCAIBox/Slow_Thinking_with_LLMs).  
+Check out our works: [Reasoning with Exploration: An Entropy Perspective (AAAI 2026)](https://arxiv.org/abs/2506.14758), [FlowRL](https://huggingface.co/papers/2509.15207) and [STILL](https://github.com/RUCAIBox/Slow_Thinking_with_LLMs).  
 Feel free to reach out if you are interested in collaboration or discussions!
 
 ## Contact  
@@ -33,13 +33,18 @@ I am dedicated to enhancing **Large Language Models (LLMs)** across their entire
 - **Synthetic Data**: [Instruction Pre-Training](https://huggingface.co/papers/2406.14491), [AdaptLLM](https://huggingface.co/papers/2309.09530), [ToEdit](https://arxiv.org/abs/2412.14689).  
 - **Retrieval Augmented Generation**: [UPRISE](https://arxiv.org/abs/2303.08518), [MDR](https://aclanthology.org/2024.naacl-long.235/).
 
+## Honors & Awards 
+* **Outstanding Reviewer of EMNLP, 2026**
+* **1st Place in the PhD Entrance Exam (Preliminary) at the GSAI, Renmin University of China, 2025**
+* **National Scholarship for Master Students (Top 1%), 2021**
+
 ## Selected Papers
 
 *(Full list on [Google Scholar](https://scholar.google.com/citations?hl=en&user=flRAZJQAAAAJ&view_op=list_works))*
 
 * **Reasoning with Exploration: An Entropy Perspective**  
   **Daixuan Cheng**, Shaohan Huang, Xuekai Zhu, Bo Dai, Wayne Xin Zhao, Zhenliang Zhang, Furu Wei  
-  (**arXiv Preprint, 2025 — 🌟 Earliest Research on Exploration of RL in LLM reasoning, 🔥 Relation between Entropy and Exploration, 🔝 proposed Entropy Advantage, 🚀 Significant Pass@K Gain**) [pdf](https://arxiv.org/abs/2506.14758)
+  (**AAAI 2026 — 🌟 Earliest Research on Exploration of RL in LLM reasoning, 🔥 Relation between Entropy and Exploration, 🔝 proposed Entropy Advantage, 🚀 Significant Pass@K Gain**) [pdf](https://arxiv.org/abs/2506.14758)
 
 * **FlowRL: Matching Reward Distributions for LLM Reasoning**  
   Xuekai Zhu, **Daixuan Cheng**, Dinghuai Zhang, Hengli Li, Kaiyan Zhang, Che Jiang, Youbang Sun, Ermo Hua, Yuxin Zuo, Xingtai Lv, Qizheng Zhang, Lin Chen, Fanghao Shao, Bo Xue, Yunchong Song, Zhenjie Yang, Ganqu Cui, Ning Ding, Jianfeng Gao, Xiaodong Liu, Bowen Zhou, Hongyuan Mei, Zhouhan Lin  
