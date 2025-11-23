@@ -6,13 +6,13 @@
 
 - I was previously a research assistant in the **CoAI Group, Tsinghua University**, fortunately advised by [Yuxian Gu](https://t1101675.github.io) and [Minlie Huang](https://scholar.google.com/citations?user=P1jPSzMAAAAJ&hl=zh-CN).  I also worked as a research engineer at BIGAI, fortunately collaborating with [Xuekai Zhu](https://xuekai-zhu.github.io/Xuekai-Zhu/).
 
-**🌟 Recent Focus:**  
+**Recent Focus:**  
 My current research emphasizes **Reinforcement Learning for LLM Reasoning**, especially the **Exploration Mechanisms**!  
 Check out our works: [Reasoning with Exploration: An Entropy Perspective (AAAI 2026)](https://arxiv.org/abs/2506.14758), [FlowRL](https://huggingface.co/papers/2509.15207) and [STILL](https://github.com/RUCAIBox/Slow_Thinking_with_LLMs).  
 Feel free to reach out if you are interested in collaboration or discussions!
 
 ## Contact  
-- ✉️ Email: [daixuancheng6@gmail.com](mailto:daixuancheng6@gmail.com)  
+- Email: [daixuancheng6@gmail.com](mailto:daixuancheng6@gmail.com)  
 
 ## Education
 
@@ -33,39 +33,33 @@ I am dedicated to enhancing **Large Language Models (LLMs)** across their entire
 - **Synthetic Data**: [Instruction Pre-Training](https://huggingface.co/papers/2406.14491), [AdaptLLM](https://huggingface.co/papers/2309.09530), [ToEdit](https://arxiv.org/abs/2412.14689).  
 - **Retrieval Augmented Generation**: [UPRISE](https://arxiv.org/abs/2303.08518), [MDR](https://aclanthology.org/2024.naacl-long.235/).
 
-## Honors & Awards 
-* **[Outstanding Reviewer of EMNLP (Top 0.5%)](https://aclanthology.org/2025.emnlp-main.0.pdf)**
-* **1st Place in the PhD Entrance Exam (Preliminary) at the GSAI, Renmin University of China**
-* **National Scholarship for Master Students (Top 1%)**
-* **1st Prize in the National English Competition (Top 0.5%)**
-
 ## Selected Papers
 
 *(Full list on [Google Scholar](https://scholar.google.com/citations?hl=en&user=flRAZJQAAAAJ&view_op=list_works))*
 
 * **Reasoning with Exploration: An Entropy Perspective**  
   **Daixuan Cheng**, Shaohan Huang, Xuekai Zhu, Bo Dai, Wayne Xin Zhao, Zhenliang Zhang, Furu Wei  
-  (**AAAI 2026 — 🌟 Earliest Research on Exploration of RL in LLM reasoning, 🔥 Relation between Entropy and Exploration, 🔝 Proposed Entropy Advantage, 🚀 Significant Pass@K Gain**) [pdf](https://arxiv.org/abs/2506.14758)
+  (**AAAI 2026 —  Earliest Research on Exploration of RL in LLM reasoning,  Relation between Entropy and Exploration,  Proposed Entropy Advantage,  Significant Pass@K Gain**) [pdf](https://arxiv.org/abs/2506.14758)
 
 * **FlowRL: Matching Reward Distributions for LLM Reasoning**  
   Xuekai Zhu, **Daixuan Cheng**, Dinghuai Zhang, Hengli Li, Kaiyan Zhang, Che Jiang, Youbang Sun, Ermo Hua, Yuxin Zuo, Xingtai Lv, Qizheng Zhang, Lin Chen, Fanghao Shao, Bo Xue, Yunchong Song, Zhenjie Yang, Ganqu Cui, Ning Ding, Jianfeng Gao, Xiaodong Liu, Bowen Zhou, Hongyuan Mei, Zhouhan Lin  
-  (**arXiv Preprint, 2025 — Exploration of RL in LLM reasoning, [🤗 #1 Paper of the Day](https://huggingface.co/papers/2509.15207), [🥗 Recipe at VERL](https://github.com/volcengine/verl/tree/main/recipe/flowrl)**) [pdf](https://huggingface.co/papers/2509.15207) [code](https://github.com/Xuekai-Zhu/FlowRL)
+  (**arXiv Preprint, 2025 — Exploration of RL in LLM reasoning, [🤗 #1 Paper of the Day](https://huggingface.co/papers/2509.15207), [Recipe at VERL](https://github.com/volcengine/verl/tree/main/recipe/flowrl)**) [pdf](https://huggingface.co/papers/2509.15207) [code](https://github.com/Xuekai-Zhu/FlowRL)
 
 * **Adapting Large Language Models via Reading Comprehension**  
   **Daixuan Cheng**, Shaohan Huang, Furu Wei  
-  (**ICLR 2024 — 🌟 Earliest Research on Domain LLMs, 🔥 500K+ Downloads on Hugging Face, 🏆 #1 Trending of ALL Domain LLMs on Huggingface, [🤗 #2 Paper of the Day](https://huggingface.co/papers/2309.09530)**) [pdf](https://huggingface.co/papers/2309.09530) [code](https://github.com/microsoft/LMOps/tree/main/adaptllm) [huggingface](https://huggingface.co/AdaptLLM)
+  (**ICLR 2024 —  Earliest Research on Domain LLMs, 500K+ Downloads on Hugging Face, #1 Trending of ALL Domain LLMs on Huggingface, [🤗 #2 Paper of the Day](https://huggingface.co/papers/2309.09530)**) [pdf](https://huggingface.co/papers/2309.09530) [code](https://github.com/microsoft/LMOps/tree/main/adaptllm) [huggingface](https://huggingface.co/AdaptLLM)
 
 * **Instruction Pre-Training: Language Models are Supervised Multitask Learners**  
   **Daixuan Cheng**, Yuxian Gu, Shaohan Huang, Junyu Bi, Minlie Huang, Furu Wei  
-  (**EMNLP 2024 (Main, Long Paper) — LLM pre-training, [🌟 Recommended by Sebastian Raschka](https://magazine.sebastianraschka.com/p/instruction-pretraining-llms), 🔥 200K+ Downloads on Hugging Face, 🏆 #2 Trending of ALL Huggingface Dataset, [🤗 #2 Paper of the Day](https://huggingface.co/papers/2406.14491)**) [pdf](https://huggingface.co/papers/2406.14491) [code](https://github.com/microsoft/LMOps/tree/main/instruction_pretrain)
+  (**EMNLP 2024 (Main, Long Paper) — LLM pre-training, [ Recommended by Sebastian Raschka](https://magazine.sebastianraschka.com/p/instruction-pretraining-llms),  200K+ Downloads on Hugging Face, #2 Trending of ALL Huggingface Dataset, [🤗 #2 Paper of the Day](https://huggingface.co/papers/2406.14491)**) [pdf](https://huggingface.co/papers/2406.14491) [code](https://github.com/microsoft/LMOps/tree/main/instruction_pretrain)
 
 * **Uprise: Universal Prompt Retrieval for Improving Zero-Shot Evaluation**  
   **Daixuan Cheng**, Shaohan Huang, Junyu Bi, Yuefeng Zhan, Jianfeng Liu, Yujing Wang, Hao Sun, Furu Wei, Denvy Deng, Qi Zhang  
-  (**EMNLP 2023 (Main, Long Paper) — 🌟 Early Research on RAG for LLMs, 🔥 [Top ML Papers of the Week (along with GPT-4)](https://x.com/dair_ai/status/1637456912596840448)**) [pdf](https://arxiv.org/abs/2303.08518) [code](https://github.com/microsoft/LMOps/tree/main/uprise)
+  (**EMNLP 2023 (Main, Long Paper) — Early Research on RAG for LLMs, [Top ML Papers of the Week (along with GPT-4)](https://x.com/dair_ai/status/1637456912596840448)**) [pdf](https://arxiv.org/abs/2303.08518) [code](https://github.com/microsoft/LMOps/tree/main/uprise)
 
 * **On Domain-Adaptive Post-Training for Multimodal Large Language Models**  
   **Daixuan Cheng**, Shaohan Huang, Ziyu Zhu, Xintong Zhang, Wayne Xin Zhao, Zhongzhi Luan, Bo Dai, Zhenliang Zhang  
-  (**EMNLP 2025 (Findings, Long Paper) — 🌟 Earliest Research on Domain MLLMs**) [pdf](https://arxiv.org/abs/2411.19930) [code](https://github.com/bigai-ai/QA-Synthesizer) [huggingface](https://huggingface.co/AdaptLLM/Adapt-MLLM-to-Domains)
+  (**EMNLP 2025 (Findings, Long Paper) — Earliest Research on Domain MLLMs**) [pdf](https://arxiv.org/abs/2411.19930) [code](https://github.com/bigai-ai/QA-Synthesizer) [huggingface](https://huggingface.co/AdaptLLM/Adapt-MLLM-to-Domains)
 
 * **How to Synthesize Text Data without Model Collapse?**  
   Xuekai Zhu, **Daixuan Cheng**, Hengli Li, Kaiyan Zhang, Ermo Hua, Xingtai Lv, Ning Ding, Zhouhan Lin, Zilong Zheng, Bowen Zhou  
@@ -78,3 +72,9 @@ I am dedicated to enhancing **Large Language Models (LLMs)** across their entire
 - **Snapshot-guided domain adaptation for ELECTRA**  
 **Daixuan Cheng**, Shaohan Huang, Jianfeng Liu, Yuefeng Zhan, Hao Sun, Furu Wei, Denvy Deng, Qi Zhang  
 (**EMNLP 2022 (Findings, Short Paper) — Domain Adaptation of LM**) [pdf](https://aclanthology.org/2022.findings-emnlp.163/)
+
+## Honors & Awards 
+* **[Outstanding Reviewer of EMNLP (Top 0.5%)](https://aclanthology.org/2025.emnlp-main.0.pdf)**
+* **1st Place in the PhD Entrance Exam (Preliminary) at the GSAI, Renmin University of China**
+* **National Scholarship for Master Students (Top 1%)**
+* **1st Prize in the National English Competition (Top 0.5%)**
