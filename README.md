@@ -74,6 +74,7 @@ I am dedicated to enhancing **Large Language Models (LLMs)** across their entire
 (**EMNLP 2022 (Findings, Short Paper) — Domain Adaptation of LM**) [pdf](https://aclanthology.org/2022.findings-emnlp.163/)
 
 ## Honors & Awards 
+* **[🤗 Hugging Face Top Contributors](https://x.com/i/lists/1762103087395693000)**
 * **[Outstanding Reviewer of EMNLP (Top 0.5%)](https://aclanthology.org/2025.emnlp-main.0.pdf)**
 * **1st Place in the PhD Entrance Exam (Preliminary) at the GSAI, Renmin University of China**
 * **National Scholarship for Master Students (Top 1%)**
