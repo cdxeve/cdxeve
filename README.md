@@ -29,7 +29,7 @@ Feel free to reach out if you are interested in collaboration or discussions!
 I am dedicated to enhancing **Large Language Models (LLMs)** across their entire lifecycle, including:  
 - **Reasoning and Reinforcement Learning**: [Reasoning with Exploration](https://arxiv.org/abs/2506.14758), [FlowRL](https://huggingface.co/papers/2509.15207), [STILL](https://github.com/RUCAIBox/Slow_Thinking_with_LLMs).  
 - **Pre-training**: [Instruction Pre-Training](https://huggingface.co/papers/2406.14491), [AdaptLLM](https://huggingface.co/papers/2309.09530), [VL-Match](https://openaccess.thecvf.com/content/ICCV2023/papers/Bi_VL-Match_Enhancing_Vision-Language_Pretraining_with_Token-Level_and_Instance-Level_Matching_ICCV_2023_paper.pdf).  
-- **Domain Adaptation**: [AdaptLLM](https://huggingface.co/papers/2309.09530), [AdaMLLM](https://arxiv.org/abs/2411.19930), [SODA](https://aclanthology.org/2022.findings-emnlp.163/).  
+- **Domain Adaptation (Mid-training)**: [AdaptLLM](https://huggingface.co/papers/2309.09530), [AdaMLLM](https://arxiv.org/abs/2411.19930), [SODA](https://aclanthology.org/2022.findings-emnlp.163/).  
 - **Synthetic Data**: [Instruction Pre-Training](https://huggingface.co/papers/2406.14491), [AdaptLLM](https://huggingface.co/papers/2309.09530), [ToEdit](https://arxiv.org/abs/2412.14689).  
 - **Retrieval Augmented Generation**: [UPRISE](https://arxiv.org/abs/2303.08518), [MDR](https://aclanthology.org/2024.naacl-long.235/).
 
@@ -51,7 +51,7 @@ I am dedicated to enhancing **Large Language Models (LLMs)** across their entire
 
 * **Instruction Pre-Training: Language Models are Supervised Multitask Learners**  
   **Daixuan Cheng**, Yuxian Gu, Shaohan Huang, Junyu Bi, Minlie Huang, Furu Wei  
-  (**EMNLP 2024 (Main, Long Paper) — LLM pre-training, [ Recommended by Sebastian Raschka](https://magazine.sebastianraschka.com/p/instruction-pretraining-llms),  200K+ Downloads on Hugging Face, [#2 Trending of ALL Huggingface Datasets](https://huggingface.co/instruction-pretrain), [🤗 #2 Paper of the Day](https://huggingface.co/papers/2406.14491)**) [pdf](https://huggingface.co/papers/2406.14491) [code](https://github.com/microsoft/LMOps/tree/main/instruction_pretrain)
+  (**EMNLP 2024 (Main, Long Paper) — LLM Pre-training, Earliest Research on Mid-training, [ Recommended by Sebastian Raschka](https://magazine.sebastianraschka.com/p/instruction-pretraining-llms),  200K+ Downloads on Hugging Face, [#2 Trending of ALL Huggingface Datasets](https://huggingface.co/instruction-pretrain), [🤗 #2 Paper of the Day](https://huggingface.co/papers/2406.14491)**) [pdf](https://huggingface.co/papers/2406.14491) [code](https://github.com/microsoft/LMOps/tree/main/instruction_pretrain)
 
 * **Uprise: Universal Prompt Retrieval for Improving Zero-Shot Evaluation**  
   **Daixuan Cheng**, Shaohan Huang, Junyu Bi, Yuefeng Zhan, Jianfeng Liu, Yujing Wang, Hao Sun, Furu Wei, Denvy Deng, Qi Zhang  
