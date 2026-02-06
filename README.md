@@ -1,32 +1,23 @@
-# Daixuan Cheng
+# Daixuan Cheng (成岱璇）
 
-- I am a Ph.D. student at **Gaoling School of AI, Renmin University of China**, fortunately advised by [Xin Zhao](https://scholar.google.com/citations?user=JNhNacoAAAAJ&hl=en).  
+- I am a Ph.D. student at **Gaoling School of AI, Renmin University of China**, fortunately advised by [Wayne Xin Zhao](https://scholar.google.com/citations?user=JNhNacoAAAAJ&hl=en).  
 
 - Ever since 2021, I have been a research student advised by [Shaohan Huang](https://buaahsh.github.io) and [Furu Wei](https://thegenerality.com) from the **GenAI Group of Microsoft Research**, with whom I have accomplished many of my representative works.
 
 - I was previously a research assistant in the **CoAI Group, Tsinghua University**, fortunately advised by [Yuxian Gu](https://t1101675.github.io) and [Minlie Huang](https://scholar.google.com/citations?user=P1jPSzMAAAAJ&hl=zh-CN).  I also worked as a research engineer at BIGAI, fortunately collaborating with [Xuekai Zhu](https://xuekai-zhu.github.io/Xuekai-Zhu/).
 
 **Recent Focus:**  
-My current research emphasizes **Reinforcement Learning for LLM Reasoning**, especially the **Exploration Mechanisms**!  
-Check out our works: [Reasoning with Exploration: An Entropy Perspective (AAAI 2026)](https://arxiv.org/abs/2506.14758), [FlowRL](https://huggingface.co/papers/2509.15207) and [STILL](https://github.com/RUCAIBox/Slow_Thinking_with_LLMs).  
+My current research emphasizes **Agent**, especially the **Generalization of Coding Agents**: [LLM-in-Sandbox](https://huggingface.co/papers/2601.16206).  
 Feel free to reach out if you are interested in collaboration or discussions!
 
 ## Contact  
-- Email: [daixuancheng6@gmail.com](mailto:daixuancheng6@gmail.com)  
-
-## Education
-
-- **Ph.D. Student in Artificial Intelligence**, Gaoling School of AI, Renmin University of China (2025 – Present)  
-  - Advisor: [Xin Zhao](https://scholar.google.com/citations?user=JNhNacoAAAAJ&hl=en)
-
-- **M.S. in Computer Science**, School of Computer Science, Beijing University of Posts and Telecommunications (2020 – 2023)  
-  - Advisor: [Haifeng Sun](https://hfsun.github.io)
-
-- **B.S. in Communication Engineering**, School of Information and Communication Engineering, Beijing University of Posts and Telecommunications (2016 – 2020)  
+- Email: [daixuancheng6@gmail.com](mailto:daixuancheng6@gmail.com)
+- WeChat: cdx18810357013
 
 ## Research Interests  
 
-I am dedicated to enhancing **Large Language Models (LLMs)** across their entire lifecycle, including:  
+I am dedicated to enhancing **Large Language Models** across their entire lifecycle, **from Pre-Training to Agent**:  
+- **General/Code Agent**: [LLM-in-Sandbox](https://huggingface.co/papers/2601.16206), [SWE-Master](https://huggingface.co/papers/2602.03411). 
 - **Reasoning and Reinforcement Learning**: [Reasoning with Exploration](https://arxiv.org/abs/2506.14758), [FlowRL](https://huggingface.co/papers/2509.15207), [STILL](https://github.com/RUCAIBox/Slow_Thinking_with_LLMs).  
 - **Pre-training**: [Instruction Pre-Training](https://huggingface.co/papers/2406.14491), [AdaptLLM](https://huggingface.co/papers/2309.09530), [VL-Match](https://openaccess.thecvf.com/content/ICCV2023/papers/Bi_VL-Match_Enhancing_Vision-Language_Pretraining_with_Token-Level_and_Instance-Level_Matching_ICCV_2023_paper.pdf).  
 - **Domain Adaptation (Mid-training)**: [AdaptLLM](https://huggingface.co/papers/2309.09530), [AdaMLLM](https://arxiv.org/abs/2411.19930), [SODA](https://aclanthology.org/2022.findings-emnlp.163/).  
@@ -36,14 +27,17 @@ I am dedicated to enhancing **Large Language Models (LLMs)** across their entire
 ## Selected Papers
 
 *(Full list on [Google Scholar](https://scholar.google.com/citations?hl=en&user=flRAZJQAAAAJ&view_op=list_works))*
+* **LLM-in-Sandbox Elicits General Agentic Intelligence**  
+  **Daixuan Cheng**, Shaohan Huang, Yuxian Gu, Huatong Song, Guoxin Chen, Li Dong, Wayne Xin Zhao, Ji-Rong Wen, Furu Wei  
+  (**arXiv preprint, 2026 —  General/Code Agent,  [🤗 #1 Paper of the Day](https://huggingface.co/papers/2601.16206),[Youtube with 335K+ views](https://www.youtube.com/shorts/9sjjLT2qyBE)**) [pdf](https://huggingface.co/papers/2601.16206) [project](https://llm-in-sandbox.github.io) [code](https://github.com/llm-in-sandbox/llm-in-sandbox)
 
 * **Reasoning with Exploration: An Entropy Perspective**  
   **Daixuan Cheng**, Shaohan Huang, Xuekai Zhu, Bo Dai, Wayne Xin Zhao, Zhenliang Zhang, Furu Wei  
-  (**AAAI 2026 —  Earliest Research on Exploration of RL in LLM reasoning,  Relation between Entropy and Exploration,  Proposed Entropy Advantage,  Significant Pass@K Gain**) [pdf](https://arxiv.org/abs/2506.14758)
+  (**AAAI 2026 —  Earliest Research on Exploration of RL in LLM reasoning, Relation between Entropy and Exploration, Significant Pass@K Gain**) [pdf](https://arxiv.org/abs/2506.14758)
 
 * **FlowRL: Matching Reward Distributions for LLM Reasoning**  
   Xuekai Zhu, **Daixuan Cheng**, Dinghuai Zhang, Hengli Li, Kaiyan Zhang, Che Jiang, Youbang Sun, Ermo Hua, Yuxin Zuo, Xingtai Lv, Qizheng Zhang, Lin Chen, Fanghao Shao, Bo Xue, Yunchong Song, Zhenjie Yang, Ganqu Cui, Ning Ding, Jianfeng Gao, Xiaodong Liu, Bowen Zhou, Hongyuan Mei, Zhouhan Lin  
-  (**arXiv Preprint, 2025 — Exploration of RL in LLM reasoning, [🤗 #1 Paper of the Day](https://huggingface.co/papers/2509.15207), [Recipe at VERL](https://github.com/volcengine/verl/tree/main/recipe/flowrl)**) [pdf](https://huggingface.co/papers/2509.15207) [code](https://github.com/Xuekai-Zhu/FlowRL)
+  (**ICLR 2026 — Exploration of RL in LLM reasoning, [🤗 #1 Paper of the Day](https://huggingface.co/papers/2509.15207), [Recipe at VERL](https://github.com/volcengine/verl/tree/main/recipe/flowrl)**) [pdf](https://huggingface.co/papers/2509.15207) [code](https://github.com/Xuekai-Zhu/FlowRL)
 
 * **Adapting Large Language Models via Reading Comprehension**  
   **Daixuan Cheng**, Shaohan Huang, Furu Wei  
@@ -72,6 +66,16 @@ I am dedicated to enhancing **Large Language Models (LLMs)** across their entire
 - **Snapshot-guided domain adaptation for ELECTRA**  
 **Daixuan Cheng**, Shaohan Huang, Jianfeng Liu, Yuefeng Zhan, Hao Sun, Furu Wei, Denvy Deng, Qi Zhang  
 (**EMNLP 2022 (Findings, Short Paper) — Domain Adaptation of LM**) [pdf](https://aclanthology.org/2022.findings-emnlp.163/)
+
+## Education
+
+- **Ph.D. Student in Artificial Intelligence**, Gaoling School of AI, Renmin University of China (2025 – Present)  
+  - Advisor: [Xin Zhao](https://scholar.google.com/citations?user=JNhNacoAAAAJ&hl=en)
+
+- **M.S. in Computer Science**, School of Computer Science, Beijing University of Posts and Telecommunications (2020 – 2023)  
+  - Advisor: [Haifeng Sun](https://hfsun.github.io)
+
+- **B.S. in Communication Engineering**, School of Information and Communication Engineering, Beijing University of Posts and Telecommunications (2016 – 2020)  
 
 ## Honors & Awards 
 * **[🤗 Hugging Face Top Contributors](https://x.com/i/lists/1762103087395693000)**
