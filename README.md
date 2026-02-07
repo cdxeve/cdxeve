@@ -1,4 +1,4 @@
-# Daixuan Cheng (成岱璇）
+# Daixuan Cheng
 
 - I am a Ph.D. student at **Gaoling School of AI, Renmin University of China**, fortunately advised by [Wayne Xin Zhao](https://scholar.google.com/citations?user=JNhNacoAAAAJ&hl=en).  
 
